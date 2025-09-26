@@ -1,11 +1,8 @@
-* {
-    display: flex;
-}
-
 body {
     background: green;
 }
 
 ul {
-    /* no bullets */
+    display: flex;
+    list-style: none;
 }
