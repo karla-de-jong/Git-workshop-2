@@ -1,0 +1,8 @@
+body {
+    background: green;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
